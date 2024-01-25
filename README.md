@@ -176,8 +176,6 @@ In Home view, all the views button will be available. User will land on specific
 - Marketing View
 - Supply chain View
 - Executive View
-- Products
-- Support
 
 ## Home Page
 
@@ -201,7 +199,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ![executive.gif](https://github.com/sofiyan-smasher/Power_BI_Atliq_HW/blob/main/Resources/executive.gif)
 
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
+you can find the full report file here : [Report](https://app.powerbi.com/view?r=eyJrIjoiZTYxOTFjNjktYjEzMy00NWI5LWEyZDUtOWI5N2U4MTZiMjFmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ## Project Outcome
